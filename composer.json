@@ -1,0 +1,17 @@
+{
+    "name": "eloquage/embed-ext",
+    "description": "Optional PIE-compatible TypePHP native extension for eloquage/embed.",
+    "type": "php-ext",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
+    "php-ext": {
+        "extension-name": "eloquage_embed"
+    },
+    "homepage": "https://github.com/eloquage/embed-ext",
+    "support": {
+        "source": "https://github.com/eloquage/embed-ext"
+    }
+}
+
